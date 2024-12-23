@@ -7,13 +7,13 @@ global.qris = "-"
 
 
 // GLOBAL SETTING
-global.owner = "2348133729715"
+global.owner = "2349032040887"
 global.namabot = "PATRON "
-global.nomorbot = "2348133729715"
+global.nomorbot = "2349032040887"
 global.namaCreator = "PA"
 global.linkyt = ""
 global.autoJoin = false
-global.antilink = false
+global.antilink = true
 global.versisc = '3.0'
 
 // DELAY JPM
